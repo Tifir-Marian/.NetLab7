@@ -1,0 +1,6 @@
+F:\Facultate\C#\laborator 7\WCFIntern\bin\Debug\WCFIntern.dll
+F:\Facultate\C#\laborator 7\WCFIntern\bin\Debug\WCFIntern.pdb
+F:\Facultate\C#\laborator 7\WCFIntern\obj\Debug\WCFIntern.csprojAssemblyReference.cache
+F:\Facultate\C#\laborator 7\WCFIntern\obj\Debug\WCFIntern.csproj.CoreCompileInputs.cache
+F:\Facultate\C#\laborator 7\WCFIntern\obj\Debug\WCFIntern.dll
+F:\Facultate\C#\laborator 7\WCFIntern\obj\Debug\WCFIntern.pdb

@@ -1,0 +1,10 @@
+F:\Facultate\C#\laborator 7\ServerIntern\bin\Debug\ServerIntern.dll
+F:\Facultate\C#\laborator 7\ServerIntern\bin\Debug\ServerIntern.pdb
+F:\Facultate\C#\laborator 7\ServerIntern\bin\Debug\WCFIntern.dll
+F:\Facultate\C#\laborator 7\ServerIntern\bin\Debug\WCFIntern.pdb
+F:\Facultate\C#\laborator 7\ServerIntern\obj\Debug\ServerIntern.csprojAssemblyReference.cache
+F:\Facultate\C#\laborator 7\ServerIntern\obj\Debug\ServerIntern.csproj.CoreCompileInputs.cache
+F:\Facultate\C#\laborator 7\ServerIntern\obj\Debug\ServerIntern.csproj.CopyComplete
+F:\Facultate\C#\laborator 7\ServerIntern\obj\Debug\ServerIntern.dll
+F:\Facultate\C#\laborator 7\ServerIntern\obj\Debug\ServerIntern.pdb
+F:\Facultate\C#\laborator 7\ServerIntern\bin\Debug\ServerIntern.dll.config

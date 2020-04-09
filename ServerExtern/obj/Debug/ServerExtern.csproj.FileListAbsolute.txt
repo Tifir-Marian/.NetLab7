@@ -1,0 +1,1 @@
+F:\Facultate\C#\laborator 7\ServerExtern\obj\Debug\ServerExtern.csproj.CoreCompileInputs.cache
